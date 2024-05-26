@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JoaoFranco03/photography-portfolio">
-    <img src="dist/assets/Logo.jpg" alt="Logo" width="80" height="80">
+    <img src="dist/assets/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Photography Portfolio</h3>
@@ -37,7 +37,7 @@
     <a href="https://photography-portfolio-joaofranco03.netlify.app/">View Demo</a>
     <br />
     <br />
-    
+
   </p>
 </div>
 
